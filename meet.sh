@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 # SLIMBOT-BUITENMETING-MEETPUNT-20261109
-# Meet Slimbot van buitenaf: elke minuut drie adressen, met responstijd.
+# Meet Slimbot van buitenaf: elke minuut drie adressen, met responstijd (10 rondes per run).
 # Schrijft één JSON-regel per meting naar data/JJJJ-MM-DD.jsonl (UTC-dag).
 # Alleen lezen: de livechat-API wordt alleen om de instellingen van een voorbeeldwidget gevraagd.
 set -u
-RONDES="${RONDES:-5}"
+RONDES="${RONDES:-10}"
 TUSSEN="${TUSSEN:-60}"
 LIVECHAT_URL="${LIVECHAT_URL:-}"
 RUN="${GITHUB_RUN_ID:-lokaal}"

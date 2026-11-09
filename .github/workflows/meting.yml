@@ -1,6 +1,7 @@
 # SLIMBOT-BUITENMETING-MEETPUNT-20261109
 # Meting van buitenaf voor https://slimbot.nl/status.
-# Elke 5 minuten een run; elke run meet 5 keer met een minuut ertussen en zet de uitkomst in data/.
+# Elke 5 minuten een geplande run (wacht als er al een loopt); elke run meet 10 keer met een minuut ertussen en zet de uitkomst in data/.
+# De Slimbot-server start ook een run als er geen loopt of wacht, want geplande runs starten soms laat..
 # De Slimbot-server haalt data/ zelf op (git fetch). Er gaat niets van hier naar de server toe.
 name: meting
 on:
@@ -15,7 +16,7 @@ concurrency:
 jobs:
   meet:
     runs-on: ubuntu-latest
-    timeout-minutes: 9
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
