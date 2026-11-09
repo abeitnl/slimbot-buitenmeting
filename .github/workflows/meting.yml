@@ -1,0 +1,38 @@
+# SLIMBOT-BUITENMETING-MEETPUNT-20261109
+# Meting van buitenaf voor https://slimbot.nl/status.
+# Elke 5 minuten een run; elke run meet 5 keer met een minuut ertussen en zet de uitkomst in data/.
+# De Slimbot-server haalt data/ zelf op (git fetch). Er gaat niets van hier naar de server toe.
+name: meting
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: meting
+  cancel-in-progress: false
+jobs:
+  meet:
+    runs-on: ubuntu-latest
+    timeout-minutes: 9
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: meten
+        env:
+          LIVECHAT_URL: ${{ secrets.LIVECHAT_URL }}
+        run: bash meet.sh
+      - name: opslaan
+        run: |
+          git config user.name 'meting'
+          git config user.email 'meting@users.noreply.github.com'
+          git add data
+          git diff --cached --quiet && exit 0
+          git commit -q -m "meting $(date -u +%FT%TZ)"
+          for i in 1 2 3 4 5; do
+            git pull -q --rebase origin main && git push -q origin HEAD:main && exit 0
+            sleep $((i * 3))
+          done
+          exit 1
