@@ -1,7 +1,8 @@
 # SLIMBOT-BUITENMETING-MEETPUNT-20261109
 # Meting van buitenaf voor https://slimbot.nl/status.
 # Elke 5 minuten een geplande run (wacht als er al een loopt); elke run meet 10 keer met een minuut ertussen en zet de uitkomst in data/.
-# De Slimbot-server start ook een run als er geen loopt of wacht, want geplande runs starten soms laat..
+# Geplande runs starten vaak laat of niet. Daarom start elke run aan het eind zelf de volgende (stap 'volgende run'),
+# zodat de meting ook doorloopt als ons platform helemaal weg is. De Slimbot-server start alleen een run als er geen loopt of wacht.
 # De Slimbot-server haalt data/ zelf op (git fetch). Er gaat niets van hier naar de server toe.
 name: meting
 on:
@@ -10,6 +11,7 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+  actions: write
 concurrency:
   group: meting
   cancel-in-progress: false
@@ -37,3 +39,10 @@ jobs:
             sleep $((i * 3))
           done
           exit 1
+      - name: volgende run
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          n=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow meting.yml --limit 10 --json status --jq '[.[]|select(.status=="queued" or .status=="pending" or .status=="waiting" or .status=="requested")]|length' || echo 1)
+          if [ "$n" = "0" ]; then gh workflow run meting.yml --repo "$GITHUB_REPOSITORY" --ref main; fi
