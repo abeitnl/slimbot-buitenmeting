@@ -472,3 +472,33 @@
 {"t":1794450331,"doel":"login","ok":1,"http":200,"ms":400,"reden":"","run":"43140239107"}
 {"t":1794450331,"doel":"livechat","ok":1,"http":200,"ms":320,"reden":"","run":"43140239107"}
 {"t":1794450332,"doel":"status","ok":1,"http":200,"ms":601,"reden":"","run":"43140239107"}
+{"t":1794450341,"doel":"login","ok":1,"http":200,"ms":475,"reden":"","run":"43141321376"}
+{"t":1794450342,"doel":"livechat","ok":1,"http":200,"ms":306,"reden":"","run":"43141321376"}
+{"t":1794450342,"doel":"status","ok":1,"http":200,"ms":579,"reden":"","run":"43141321376"}
+{"t":1794450401,"doel":"login","ok":1,"http":200,"ms":393,"reden":"","run":"43141321376"}
+{"t":1794450401,"doel":"livechat","ok":1,"http":200,"ms":310,"reden":"","run":"43141321376"}
+{"t":1794450401,"doel":"status","ok":1,"http":200,"ms":560,"reden":"","run":"43141321376"}
+{"t":1794450461,"doel":"login","ok":1,"http":200,"ms":377,"reden":"","run":"43141321376"}
+{"t":1794450461,"doel":"livechat","ok":1,"http":200,"ms":298,"reden":"","run":"43141321376"}
+{"t":1794450462,"doel":"status","ok":1,"http":200,"ms":561,"reden":"","run":"43141321376"}
+{"t":1794450521,"doel":"login","ok":1,"http":200,"ms":378,"reden":"","run":"43141321376"}
+{"t":1794450522,"doel":"livechat","ok":1,"http":200,"ms":298,"reden":"","run":"43141321376"}
+{"t":1794450522,"doel":"status","ok":1,"http":200,"ms":558,"reden":"","run":"43141321376"}
+{"t":1794450581,"doel":"login","ok":1,"http":200,"ms":375,"reden":"","run":"43141321376"}
+{"t":1794450581,"doel":"livechat","ok":1,"http":200,"ms":306,"reden":"","run":"43141321376"}
+{"t":1794450581,"doel":"status","ok":1,"http":200,"ms":577,"reden":"","run":"43141321376"}
+{"t":1794450641,"doel":"login","ok":0,"http":0,"ms":93,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 94 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450641,"doel":"livechat","ok":0,"http":0,"ms":96,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 96 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450641,"doel":"status","ok":0,"http":0,"ms":93,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 93 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450701,"doel":"login","ok":0,"http":0,"ms":92,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 92 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450701,"doel":"livechat","ok":0,"http":0,"ms":96,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 96 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450702,"doel":"status","ok":0,"http":0,"ms":93,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 93 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450761,"doel":"login","ok":0,"http":0,"ms":92,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 92 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450761,"doel":"livechat","ok":0,"http":0,"ms":96,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 96 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450761,"doel":"status","ok":0,"http":0,"ms":93,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 93 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450821,"doel":"login","ok":0,"http":0,"ms":93,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 94 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450821,"doel":"livechat","ok":0,"http":0,"ms":96,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 96 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450821,"doel":"status","ok":0,"http":0,"ms":93,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 93 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450881,"doel":"login","ok":0,"http":0,"ms":92,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 92 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450881,"doel":"livechat","ok":0,"http":0,"ms":96,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 96 ms: Couldn't connect to server","run":"43141321376"}
+{"t":1794450882,"doel":"status","ok":0,"http":0,"ms":93,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 93 ms: Couldn't connect to server","run":"43141321376"}
