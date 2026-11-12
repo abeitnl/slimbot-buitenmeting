@@ -562,3 +562,33 @@
 {"t":1794451986,"doel":"login","ok":0,"http":0,"ms":102,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 102 ms: Couldn't connect to server","run":"43143415718"}
 {"t":1794451986,"doel":"livechat","ok":0,"http":0,"ms":109,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 109 ms: Couldn't connect to server","run":"43143415718"}
 {"t":1794451986,"doel":"status","ok":0,"http":0,"ms":102,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 102 ms: Couldn't connect to server","run":"43143415718"}
+{"t":1794451997,"doel":"login","ok":0,"http":0,"ms":250,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 250 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794451998,"doel":"livechat","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794451998,"doel":"status","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 121 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452057,"doel":"login","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 119 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452057,"doel":"livechat","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452057,"doel":"status","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452117,"doel":"login","ok":0,"http":0,"ms":122,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 122 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452117,"doel":"livechat","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452117,"doel":"status","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 119 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452177,"doel":"login","ok":0,"http":0,"ms":130,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 131 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452177,"doel":"livechat","ok":0,"http":0,"ms":126,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 126 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452177,"doel":"status","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452237,"doel":"login","ok":0,"http":0,"ms":122,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 122 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452238,"doel":"livechat","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452238,"doel":"status","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452297,"doel":"login","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452297,"doel":"livechat","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 121 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452297,"doel":"status","ok":0,"http":0,"ms":122,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 122 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452357,"doel":"login","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452357,"doel":"livechat","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452358,"doel":"status","ok":0,"http":0,"ms":122,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 122 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452417,"doel":"login","ok":0,"http":0,"ms":121,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 121 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452417,"doel":"livechat","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452417,"doel":"status","ok":0,"http":0,"ms":122,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 123 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452477,"doel":"login","ok":0,"http":0,"ms":123,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 123 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452477,"doel":"livechat","ok":0,"http":0,"ms":120,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 120 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452477,"doel":"status","ok":0,"http":0,"ms":122,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 122 ms: Couldn't connect to server","run":"43144439832"}
+{"t":1794452537,"doel":"login","ok":0,"http":0,"ms":10002,"reden":"curl 28 curl: (28) Failed to connect to slimbot.nl port 443 after 10002 ms: Timeout was reached","run":"43144439832"}
+{"t":1794452547,"doel":"livechat","ok":0,"http":0,"ms":10002,"reden":"curl 28 curl: (28) Failed to connect to slimbot.nl port 443 after 10002 ms: Timeout was reached","run":"43144439832"}
+{"t":1794452558,"doel":"status","ok":0,"http":0,"ms":10001,"reden":"curl 28 curl: (28) Failed to connect to slimbot.nl port 443 after 10001 ms: Timeout was reached","run":"43144439832"}
