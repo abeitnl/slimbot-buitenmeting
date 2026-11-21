@@ -634,3 +634,33 @@
 {"t":1795230931,"doel":"login","ok":1,"http":200,"ms":393,"reden":"","run":"44859381745"}
 {"t":1795230932,"doel":"livechat","ok":1,"http":200,"ms":318,"reden":"","run":"44859381745"}
 {"t":1795230932,"doel":"status","ok":1,"http":200,"ms":575,"reden":"","run":"44859381745"}
+{"t":1795230943,"doel":"login","ok":1,"http":200,"ms":659,"reden":"","run":"44860185699"}
+{"t":1795230944,"doel":"livechat","ok":1,"http":200,"ms":425,"reden":"","run":"44860185699"}
+{"t":1795230944,"doel":"status","ok":1,"http":200,"ms":753,"reden":"","run":"44860185699"}
+{"t":1795231003,"doel":"login","ok":1,"http":200,"ms":525,"reden":"","run":"44860185699"}
+{"t":1795231003,"doel":"livechat","ok":1,"http":200,"ms":389,"reden":"","run":"44860185699"}
+{"t":1795231004,"doel":"status","ok":1,"http":200,"ms":752,"reden":"","run":"44860185699"}
+{"t":1795231063,"doel":"login","ok":1,"http":200,"ms":505,"reden":"","run":"44860185699"}
+{"t":1795231064,"doel":"livechat","ok":1,"http":200,"ms":397,"reden":"","run":"44860185699"}
+{"t":1795231064,"doel":"status","ok":1,"http":200,"ms":783,"reden":"","run":"44860185699"}
+{"t":1795231123,"doel":"login","ok":1,"http":200,"ms":514,"reden":"","run":"44860185699"}
+{"t":1795231124,"doel":"livechat","ok":1,"http":200,"ms":385,"reden":"","run":"44860185699"}
+{"t":1795231124,"doel":"status","ok":1,"http":200,"ms":753,"reden":"","run":"44860185699"}
+{"t":1795231183,"doel":"login","ok":1,"http":200,"ms":494,"reden":"","run":"44860185699"}
+{"t":1795231183,"doel":"livechat","ok":1,"http":200,"ms":384,"reden":"","run":"44860185699"}
+{"t":1795231184,"doel":"status","ok":1,"http":200,"ms":710,"reden":"","run":"44860185699"}
+{"t":1795231243,"doel":"login","ok":0,"http":0,"ms":20002,"reden":"curl 28 curl: (28) Operation timed out after 20002 milliseconds with 0 bytes received","run":"44860185699"}
+{"t":1795231263,"doel":"livechat","ok":0,"http":502,"ms":4596,"reden":"http 502","run":"44860185699"}
+{"t":1795231267,"doel":"status","ok":0,"http":502,"ms":378,"reden":"http 502","run":"44860185699"}
+{"t":1795231303,"doel":"login","ok":1,"http":200,"ms":484,"reden":"","run":"44860185699"}
+{"t":1795231303,"doel":"livechat","ok":1,"http":200,"ms":396,"reden":"","run":"44860185699"}
+{"t":1795231304,"doel":"status","ok":1,"http":200,"ms":767,"reden":"","run":"44860185699"}
+{"t":1795231363,"doel":"login","ok":1,"http":200,"ms":505,"reden":"","run":"44860185699"}
+{"t":1795231364,"doel":"livechat","ok":1,"http":200,"ms":405,"reden":"","run":"44860185699"}
+{"t":1795231364,"doel":"status","ok":1,"http":200,"ms":783,"reden":"","run":"44860185699"}
+{"t":1795231423,"doel":"login","ok":1,"http":200,"ms":514,"reden":"","run":"44860185699"}
+{"t":1795231424,"doel":"livechat","ok":1,"http":200,"ms":374,"reden":"","run":"44860185699"}
+{"t":1795231424,"doel":"status","ok":1,"http":200,"ms":752,"reden":"","run":"44860185699"}
+{"t":1795231483,"doel":"login","ok":1,"http":200,"ms":501,"reden":"","run":"44860185699"}
+{"t":1795231483,"doel":"livechat","ok":1,"http":200,"ms":374,"reden":"","run":"44860185699"}
+{"t":1795231484,"doel":"status","ok":1,"http":200,"ms":711,"reden":"","run":"44860185699"}
