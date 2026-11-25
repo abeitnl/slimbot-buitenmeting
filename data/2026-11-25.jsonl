@@ -922,3 +922,33 @@
 {"t":1795582176,"doel":"login","ok":0,"http":0,"ms":103,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 103 ms: Could not connect to server","run":"45548382683"}
 {"t":1795582176,"doel":"livechat","ok":0,"http":0,"ms":103,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 103 ms: Could not connect to server","run":"45548382683"}
 {"t":1795582176,"doel":"status","ok":0,"http":0,"ms":103,"reden":"curl 7 curl: (7) Failed to connect to slimbot.nl port 443 after 103 ms: Could not connect to server","run":"45548382683"}
+{"t":1795582189,"doel":"login","ok":1,"http":200,"ms":982,"reden":"","run":"45549413270"}
+{"t":1795582190,"doel":"livechat","ok":1,"http":200,"ms":509,"reden":"","run":"45549413270"}
+{"t":1795582190,"doel":"status","ok":1,"http":200,"ms":946,"reden":"","run":"45549413270"}
+{"t":1795582249,"doel":"login","ok":1,"http":200,"ms":635,"reden":"","run":"45549413270"}
+{"t":1795582250,"doel":"livechat","ok":1,"http":200,"ms":504,"reden":"","run":"45549413270"}
+{"t":1795582250,"doel":"status","ok":1,"http":200,"ms":928,"reden":"","run":"45549413270"}
+{"t":1795582309,"doel":"login","ok":1,"http":200,"ms":654,"reden":"","run":"45549413270"}
+{"t":1795582310,"doel":"livechat","ok":1,"http":200,"ms":504,"reden":"","run":"45549413270"}
+{"t":1795582311,"doel":"status","ok":1,"http":200,"ms":946,"reden":"","run":"45549413270"}
+{"t":1795582369,"doel":"login","ok":1,"http":200,"ms":651,"reden":"","run":"45549413270"}
+{"t":1795582369,"doel":"livechat","ok":1,"http":200,"ms":513,"reden":"","run":"45549413270"}
+{"t":1795582370,"doel":"status","ok":1,"http":200,"ms":969,"reden":"","run":"45549413270"}
+{"t":1795582429,"doel":"login","ok":1,"http":200,"ms":636,"reden":"","run":"45549413270"}
+{"t":1795582429,"doel":"livechat","ok":1,"http":200,"ms":515,"reden":"","run":"45549413270"}
+{"t":1795582430,"doel":"status","ok":1,"http":200,"ms":949,"reden":"","run":"45549413270"}
+{"t":1795582489,"doel":"login","ok":1,"http":200,"ms":630,"reden":"","run":"45549413270"}
+{"t":1795582490,"doel":"livechat","ok":1,"http":200,"ms":512,"reden":"","run":"45549413270"}
+{"t":1795582490,"doel":"status","ok":1,"http":200,"ms":946,"reden":"","run":"45549413270"}
+{"t":1795582549,"doel":"login","ok":1,"http":200,"ms":635,"reden":"","run":"45549413270"}
+{"t":1795582550,"doel":"livechat","ok":1,"http":200,"ms":510,"reden":"","run":"45549413270"}
+{"t":1795582550,"doel":"status","ok":1,"http":200,"ms":927,"reden":"","run":"45549413270"}
+{"t":1795582609,"doel":"login","ok":1,"http":200,"ms":654,"reden":"","run":"45549413270"}
+{"t":1795582610,"doel":"livechat","ok":1,"http":200,"ms":500,"reden":"","run":"45549413270"}
+{"t":1795582610,"doel":"status","ok":1,"http":200,"ms":968,"reden":"","run":"45549413270"}
+{"t":1795582669,"doel":"login","ok":1,"http":200,"ms":656,"reden":"","run":"45549413270"}
+{"t":1795582670,"doel":"livechat","ok":1,"http":200,"ms":517,"reden":"","run":"45549413270"}
+{"t":1795582671,"doel":"status","ok":1,"http":200,"ms":970,"reden":"","run":"45549413270"}
+{"t":1795582729,"doel":"login","ok":1,"http":200,"ms":635,"reden":"","run":"45549413270"}
+{"t":1795582729,"doel":"livechat","ok":1,"http":200,"ms":516,"reden":"","run":"45549413270"}
+{"t":1795582730,"doel":"status","ok":1,"http":200,"ms":949,"reden":"","run":"45549413270"}
